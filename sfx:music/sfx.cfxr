@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>C6253CEC-9D19-4B4F-A6DF-377FE9F52F32</UUID>
+        <nextObjectID>129</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>752</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>Sound</key>
+                        <data>
+		wy4SDui5IGPY7g9G3fJH1r4mKKX2gcBIry7qkNv/wRU=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string></string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="SOUND" id="z102">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.09193442</attribute>
+        <attribute name="startfrequency" type="float">0.4491362</attribute>
+        <attribute name="slide" type="float">-0.4037192</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Empty</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">1</attribute>
+        <attribute name="deltaslide" type="float">-0.8840779</attribute>
+        <attribute name="decaytime" type="float">0.08728543</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z103">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.0499</attribute>
+        <attribute name="startfrequency" type="float">0.2336</attribute>
+        <attribute name="squareduty" type="float">0.48036</attribute>
+        <attribute name="slide" type="float">-0.46492</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Hit/hurt</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">4</attribute>
+        <attribute name="decaytime" type="float">0.25162</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z104">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.18874</attribute>
+        <attribute name="startfrequency" type="float">0.994</attribute>
+        <attribute name="squareduty" type="float">0.4033</attribute>
+        <attribute name="slide" type="float">-0.1725</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.6575</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">23</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.08133001</attribute>
+        <attribute name="dutysweep" type="float">0.09836</attribute>
+        <attribute name="decaytime" type="float">0.0176</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z105">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.24913</attribute>
+        <attribute name="startfrequency" type="float">0.55776</attribute>
+        <attribute name="squareduty" type="float">0.3096</attribute>
+        <attribute name="slide" type="float">0.1978</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">9</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.22383</attribute>
+        <attribute name="decaytime" type="float">0.27758</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z106">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.18056</attribute>
+        <attribute name="startfrequency" type="float">0.51162</attribute>
+        <attribute name="squareduty" type="float">0.75775</attribute>
+        <attribute name="slide" type="float">-0.46952</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="phasersweep" type="float">-0.12562</attribute>
+        <attribute name="phaseroffset" type="float">0.18622</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.08253</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">27</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.22152</attribute>
+        <attribute name="dutysweep" type="float">-0.69104</attribute>
+        <attribute name="decaytime" type="float">0.2122</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z107">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.13232</attribute>
+        <attribute name="sustainpunch" type="float">0.0546</attribute>
+        <attribute name="startfrequency" type="float">0.91985</attribute>
+        <attribute name="squareduty" type="float">0.83045</attribute>
+        <attribute name="slide" type="float">-0.2517</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.38553</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">18</attribute>
+        <attribute name="dutysweep" type="float">-0.52731</attribute>
+        <attribute name="decaytime" type="float">0.2342</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z108">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.31597</attribute>
+        <attribute name="startfrequency" type="float">0.43848</attribute>
+        <attribute name="squareduty" type="float">0.27888</attribute>
+        <attribute name="slide" type="float">0.23816</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.53566</attribute>
+        <attribute name="index" type="int32">11</attribute>
+        <attribute name="decaytime" type="float">0.19434</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z109">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.23848</attribute>
+        <attribute name="sustainpunch" type="float">0.07083</attribute>
+        <attribute name="startfrequency" type="float">0.65256</attribute>
+        <attribute name="squareduty" type="float">0.8904</attribute>
+        <attribute name="slide" type="float">-0.61583</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.038</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">25</attribute>
+        <attribute name="dutysweep" type="float">-0.32172</attribute>
+        <attribute name="decaytime" type="float">0.18136</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z110">
+        <attribute name="wavetype" type="int16">2</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.2071138</attribute>
+        <attribute name="sustainpunch" type="float">0.03297</attribute>
+        <attribute name="startfrequency" type="float">0.1874725</attribute>
+        <attribute name="squareduty" type="float">0.486</attribute>
+        <attribute name="slide" type="float">0.2446632</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="phasersweep" type="float">-0.02748</attribute>
+        <attribute name="phaseroffset" type="float">0.01344</attribute>
+        <attribute name="name" type="string">macbookThrow</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.1354809</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">28</attribute>
+        <attribute name="dutysweep" type="float">-0.08344</attribute>
+        <attribute name="deltaslide" type="float">0.3099142</attribute>
+        <attribute name="decaytime" type="float">0.34188</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z111">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.0192</attribute>
+        <attribute name="startfrequency" type="float">0.29924</attribute>
+        <attribute name="slide" type="float">-0.37436</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">hurt</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">5</attribute>
+        <attribute name="decaytime" type="float">0.24048</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z112">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.29684</attribute>
+        <attribute name="startfrequency" type="float">0.9316</attribute>
+        <attribute name="squareduty" type="float">0.41975</attribute>
+        <attribute name="slide" type="float">-0.2299</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.3197</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">22</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.21456</attribute>
+        <attribute name="dutysweep" type="float">-0.01456</attribute>
+        <attribute name="decaytime" type="float">0.2162</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z113">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.33322</attribute>
+        <attribute name="startfrequency" type="float">0.5227801</attribute>
+        <attribute name="squareduty" type="float">0.39618</attribute>
+        <attribute name="slide" type="float">0.29224</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.9031</attribute>
+        <attribute name="index" type="int32">16</attribute>
+        <attribute name="decaytime" type="float">0.16036</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z114">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.24226</attribute>
+        <attribute name="startfrequency" type="float">0.34971</attribute>
+        <attribute name="squareduty" type="float">0.02298</attribute>
+        <attribute name="slide" type="float">0.25822</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.7795</attribute>
+        <attribute name="index" type="int32">6</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.14019</attribute>
+        <attribute name="decaytime" type="float">0.29324</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z115">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.19894</attribute>
+        <attribute name="startfrequency" type="float">0.55791</attribute>
+        <attribute name="squareduty" type="float">0.5183401</attribute>
+        <attribute name="slide" type="float">0.27756</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">12</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.21657</attribute>
+        <attribute name="decaytime" type="float">0.14572</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z116">
+        <attribute name="wavetype" type="int16">3</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.05099</attribute>
+        <attribute name="startfrequency" type="float">0.416</attribute>
+        <attribute name="slide" type="float">-0.40424</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Hit/hurt</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">3</attribute>
+        <attribute name="decaytime" type="float">0.28148</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z117">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.21204</attribute>
+        <attribute name="sustainpunch" type="float">0.14715</attribute>
+        <attribute name="startfrequency" type="float">0.4533</attribute>
+        <attribute name="squareduty" type="float">0.4616</attribute>
+        <attribute name="slide" type="float">-0.386</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.05133</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">20</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.25443</attribute>
+        <attribute name="dutysweep" type="float">0.06896</attribute>
+        <attribute name="decaytime" type="float">0.1792</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z118">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.2278</attribute>
+        <attribute name="startfrequency" type="float">0.157873</attribute>
+        <attribute name="squareduty" type="float">0.11154</attribute>
+        <attribute name="slide" type="float">0.08335173</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">17</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.25458</attribute>
+        <attribute name="deltaslide" type="float">0.05749345</attribute>
+        <attribute name="decaytime" type="float">0.13608</attribute>
+        <attribute name="changeamount" type="float">-0.05930901</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z119">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.21706</attribute>
+        <attribute name="startfrequency" type="float">0.34044</attribute>
+        <attribute name="squareduty" type="float">0.14466</attribute>
+        <attribute name="slide" type="float">0.2605</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">13</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.16404</attribute>
+        <attribute name="decaytime" type="float">0.24522</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z120">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.157</attribute>
+        <attribute name="sustainpunch" type="float">0.07644</attribute>
+        <attribute name="startfrequency" type="float">0.40686</attribute>
+        <attribute name="squareduty" type="float">0.7818</attribute>
+        <attribute name="slide" type="float">-0.52382</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.06071</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">26</attribute>
+        <attribute name="dutysweep" type="float">-0.26705</attribute>
+        <attribute name="decaytime" type="float">0.09124</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z121">
+        <attribute name="wavetype" type="int16">3</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.0365</attribute>
+        <attribute name="startfrequency" type="float">0.68342</attribute>
+        <attribute name="slide" type="float">-0.51068</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Hit/hurt</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">2</attribute>
+        <attribute name="decaytime" type="float">0.20508</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z122">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.14971</attribute>
+        <attribute name="startfrequency" type="float">0.45951</attribute>
+        <attribute name="squareduty" type="float">0.56652</attribute>
+        <attribute name="slide" type="float">0.12542</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.52828</attribute>
+        <attribute name="index" type="int32">14</attribute>
+        <attribute name="decaytime" type="float">0.2343</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z123">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.16852</attribute>
+        <attribute name="startfrequency" type="float">0.48723</attribute>
+        <attribute name="squareduty" type="float">0.38574</attribute>
+        <attribute name="slide" type="float">0.2473</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.73024</attribute>
+        <attribute name="index" type="int32">8</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.24822</attribute>
+        <attribute name="decaytime" type="float">0.29982</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z124">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.36343</attribute>
+        <attribute name="startfrequency" type="float">0.30447</attribute>
+        <attribute name="squareduty" type="float">0.32412</attribute>
+        <attribute name="slide" type="float">0.16026</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">7</attribute>
+        <attribute name="decaytime" type="float">0.19562</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z125">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.12067</attribute>
+        <attribute name="startfrequency" type="float">0.57333</attribute>
+        <attribute name="squareduty" type="float">0.59508</attribute>
+        <attribute name="slide" type="float">0.19276</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.44326</attribute>
+        <attribute name="index" type="int32">10</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.28911</attribute>
+        <attribute name="decaytime" type="float">0.1086</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z126">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.16978</attribute>
+        <attribute name="startfrequency" type="float">0.52341</attribute>
+        <attribute name="squareduty" type="float">0.39624</attribute>
+        <attribute name="slide" type="float">0.16928</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Jump</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">0.84604</attribute>
+        <attribute name="index" type="int32">15</attribute>
+        <attribute name="decaytime" type="float">0.2717</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z127">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.15374</attribute>
+        <attribute name="sustainpunch" type="float">0.27342</attribute>
+        <attribute name="startfrequency" type="float">0.86555</attribute>
+        <attribute name="squareduty" type="float">0.41825</attribute>
+        <attribute name="slide" type="float">-0.16868</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.5294701</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">19</attribute>
+        <attribute name="dutysweep" type="float">0.1706</attribute>
+        <attribute name="decaytime" type="float">0.32792</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z128">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.23214</attribute>
+        <attribute name="startfrequency" type="float">0.8474401</attribute>
+        <attribute name="squareduty" type="float">0.3391</attribute>
+        <attribute name="slide" type="float">-0.60194</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.00454</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">21</attribute>
+        <attribute name="dutysweep" type="float">0.16884</attribute>
+        <attribute name="decaytime" type="float">0.18956</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z129">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.2544</attribute>
+        <attribute name="sustainpunch" type="float">0.29064</attribute>
+        <attribute name="startfrequency" type="float">0.31578</attribute>
+        <attribute name="squareduty" type="float">0.38505</attribute>
+        <attribute name="slide" type="float">-0.56744</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.00617</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">24</attribute>
+        <attribute name="highpassfiltercutoff" type="float">0.02901</attribute>
+        <attribute name="dutysweep" type="float">0.13292</attribute>
+        <attribute name="decaytime" type="float">0.27284</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+</database>
